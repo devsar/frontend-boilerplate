@@ -8,7 +8,7 @@
             "artist": "Rock", 
             "release_date": "2017-09-22T07:00:00Z", 
             "id": 1272288467, 
-            "popilarity": 5, 
+            "popularity": 5, 
             "thumbnail": "http://is3.mzstatic.com/image/thumb/Music118/v4/27/a0/16/27a016cd-14f4-e723-243d-d25b024e8d56/source/100x100bb.jpg"
         }, 
         {
@@ -19,7 +19,7 @@
             "artist": "Fall Out Boy", 
             "release_date": "2013-01-01T08:00:00Z", 
             "id": 624200155, 
-            "popilarity": 4, 
+            "popularity": 4, 
             "thumbnail": "http://is5.mzstatic.com/image/thumb/Music/v4/c2/e6/25/c2e62579-2f93-b3a0-0bea-22658dc39ba6/source/100x100bb.jpg"
         }, 
         {
@@ -30,7 +30,7 @@
             "artist": "LMFAO", 
             "release_date": "2009-01-01T08:00:00Z", 
             "id": 319863136, 
-            "popilarity": 1, 
+            "popularity": 1, 
             "thumbnail": "http://is5.mzstatic.com/image/thumb/Music/v4/f5/28/0f/f5280f97-7484-5012-9899-c136a2901633/source/100x100bb.jpg"
         }, 
         {
@@ -41,7 +41,7 @@
             "artist": "The Rolling Stones", 
             "release_date": "1972-01-11T08:00:00Z", 
             "id": 656801179, 
-            "popilarity": 3, 
+            "popularity": 3, 
             "thumbnail": "http://is5.mzstatic.com/image/thumb/Music/v4/ea/34/5a/ea345a2e-03ae-b42e-b710-9592b7deaea1/source/100x100bb.jpg"
         }, 
         {
@@ -52,7 +52,7 @@
             "artist": "Various Artists", 
             "release_date": "2008-01-01T08:00:00Z", 
             "id": 282159547, 
-            "popilarity": 4, 
+            "popularity": 4, 
             "thumbnail": "http://is1.mzstatic.com/image/thumb/Music/v4/fd/38/69/fd38696c-6aec-db66-d48f-da67bda832cb/source/100x100bb.jpg"
         }, 
         {
@@ -63,7 +63,7 @@
             "artist": "Kid Rock", 
             "release_date": "1998-08-05T07:00:00Z", 
             "id": 586705426, 
-            "popilarity": 1, 
+            "popularity": 1, 
             "thumbnail": "http://is2.mzstatic.com/image/thumb/Music2/v4/d6/5f/7b/d65f7b41-49da-cbb5-55de-ca41eb2fbc4f/source/100x100bb.jpg"
         }, 
         {
@@ -74,7 +74,7 @@
             "artist": "Various Artists", 
             "release_date": "2012-06-05T07:00:00Z", 
             "id": 523008750, 
-            "popilarity": 3, 
+            "popularity": 3, 
             "thumbnail": "http://is1.mzstatic.com/image/thumb/Music/v4/4b/53/c1/4b53c17b-752b-3525-3bb5-93a889bc1e91/source/100x100bb.jpg"
         }, 
         {
@@ -85,7 +85,7 @@
             "artist": "Kid Rock", 
             "release_date": "2012-11-19T08:00:00Z", 
             "id": 573424811, 
-            "popilarity": 2, 
+            "popularity": 2, 
             "thumbnail": "http://is3.mzstatic.com/image/thumb/Music/v4/cb/c0/30/cbc030d4-7f0e-a946-15f3-19207d4e14be/source/100x100bb.jpg"
         }, 
         {
@@ -96,7 +96,7 @@
             "artist": "Poison", 
             "release_date": "2006-04-04T07:00:00Z", 
             "id": 715750234, 
-            "popilarity": 5, 
+            "popularity": 5, 
             "thumbnail": "http://is4.mzstatic.com/image/thumb/Music7/v4/ef/36/6c/ef366cd3-a38e-fc38-4f67-67ee5f8b4f92/source/100x100bb.jpg"
         }, 
         {
@@ -107,7 +107,7 @@
             "artist": "Kid Rock", 
             "release_date": "2007-10-09T07:00:00Z", 
             "id": 586705153, 
-            "popilarity": 1, 
+            "popularity": 1, 
             "thumbnail": "http://is4.mzstatic.com/image/thumb/Music/v4/ff/1f/b5/ff1fb544-7275-1de2-8ccf-1386fb5e1733/source/100x100bb.jpg"
         }, 
         {
@@ -118,7 +118,7 @@
             "artist": "Kenny Chesney", 
             "release_date": "2013-04-29T07:00:00Z", 
             "id": 606542649, 
-            "popilarity": 5, 
+            "popularity": 5, 
             "thumbnail": "http://is4.mzstatic.com/image/thumb/Music/v4/db/93/eb/db93eb74-5e23-538f-6115-c367d6db017e/source/100x100bb.jpg"
         }, 
         {
@@ -129,7 +129,7 @@
             "artist": "Joan Jett & The Blackhearts", 
             "release_date": "1981-11-02T08:00:00Z", 
             "id": 209683247, 
-            "popilarity": 1, 
+            "popularity": 1, 
             "thumbnail": "http://is5.mzstatic.com/image/thumb/Music/v4/40/7f/ba/407fba72-5a93-8694-e103-367b4e2ed17e/source/100x100bb.jpg"
         }, 
         {
@@ -140,7 +140,7 @@
             "artist": "Kid Rock", 
             "release_date": "2001-11-19T08:00:00Z", 
             "id": 586705729, 
-            "popilarity": 3, 
+            "popularity": 3, 
             "thumbnail": "http://is5.mzstatic.com/image/thumb/Music/v4/87/06/3e/87063eb0-05cc-25d1-3b5c-21b4e09f6c16/source/100x100bb.jpg"
         }, 
         {
@@ -151,7 +151,7 @@
             "artist": "Kid Rock", 
             "release_date": "2015-02-20T08:00:00Z", 
             "id": 950436018, 
-            "popilarity": 5, 
+            "popularity": 5, 
             "thumbnail": "http://is2.mzstatic.com/image/thumb/Music3/v4/2f/50/52/2f5052f5-d663-7f16-b266-feb0f25141bf/source/100x100bb.jpg"
         }, 
         {
@@ -162,7 +162,7 @@
             "artist": "Rocko", 
             "release_date": "2013-03-05T08:00:00Z", 
             "id": 616179728, 
-            "popilarity": 1, 
+            "popularity": 1, 
             "thumbnail": "http://is3.mzstatic.com/image/thumb/Music2/v4/e3/47/5a/e3475a31-72cb-87c1-cd19-6974ebcc9b47/source/100x100bb.jpg"
         }, 
         {
@@ -173,7 +173,7 @@
             "artist": "Various Artists", 
             "release_date": "2010-08-10T07:00:00Z", 
             "id": 385086976, 
-            "popilarity": 5, 
+            "popularity": 5, 
             "thumbnail": "http://is5.mzstatic.com/image/thumb/Music/v4/4f/c1/a7/4fc1a79a-4951-ad0b-5066-e9b8e85a8baa/source/100x100bb.jpg"
         }, 
         {
@@ -184,7 +184,7 @@
             "artist": "AC/DC", 
             "release_date": "2014-11-28T08:00:00Z", 
             "id": 923586222, 
-            "popilarity": 2, 
+            "popularity": 2, 
             "thumbnail": "http://is3.mzstatic.com/image/thumb/Music3/v4/ae/9c/4a/ae9c4afd-a533-c4fe-62bc-3c487486566a/source/100x100bb.jpg"
         }, 
         {
@@ -195,7 +195,7 @@
             "artist": "Sade", 
             "release_date": "2000-11-06T08:00:00Z", 
             "id": 193532145, 
-            "popilarity": 1, 
+            "popularity": 1, 
             "thumbnail": "http://is3.mzstatic.com/image/thumb/Music/v4/4e/a8/85/4ea88514-4de1-8f67-6ad2-3a9489b4ceff/source/100x100bb.jpg"
         }, 
         {
@@ -206,7 +206,7 @@
             "artist": "Kevin Rudolf", 
             "release_date": "2008-01-01T08:00:00Z", 
             "id": 285969760, 
-            "popilarity": 4, 
+            "popularity": 4, 
             "thumbnail": "http://is1.mzstatic.com/image/thumb/Music/v4/6c/91/90/6c91901b-e41a-9fd0-3d8d-5e2a9a90c7f0/source/100x100bb.jpg"
         }, 
         {
@@ -217,7 +217,7 @@
             "artist": "Various Artists", 
             "release_date": "2007-01-01T08:00:00Z", 
             "id": 261400980, 
-            "popilarity": 5, 
+            "popularity": 5, 
             "thumbnail": "http://is5.mzstatic.com/image/thumb/Music/v4/cb/e7/82/cbe78256-864d-ac17-8ce9-d058c191cf3f/source/100x100bb.jpg"
         }, 
         {
@@ -228,7 +228,7 @@
             "artist": "Rocko", 
             "release_date": "2008-01-01T08:00:00Z", 
             "id": 275737388, 
-            "popilarity": 1, 
+            "popularity": 1, 
             "thumbnail": "http://is1.mzstatic.com/image/thumb/Music/v4/66/33/08/66330842-99e6-5391-f7f6-38b1d9b90d68/source/100x100bb.jpg"
         }, 
         {
@@ -239,7 +239,7 @@
             "artist": "Lil Jon", 
             "release_date": "2010-01-01T08:00:00Z", 
             "id": 375170095, 
-            "popilarity": 5, 
+            "popularity": 5, 
             "thumbnail": "http://is4.mzstatic.com/image/thumb/Music/v4/8c/a8/c8/8ca8c806-48f5-8b2a-85c6-1e760ac84cc6/source/100x100bb.jpg"
         }, 
         {
@@ -250,7 +250,7 @@
             "artist": "Kid Rock", 
             "release_date": "2010-11-15T08:00:00Z", 
             "id": 586705482, 
-            "popilarity": 4, 
+            "popularity": 4, 
             "thumbnail": "http://is5.mzstatic.com/image/thumb/Music/v4/f3/8a/5a/f38a5ae6-18ea-5d5a-21ad-93370a760134/source/100x100bb.jpg"
         }, 
         {
@@ -261,7 +261,7 @@
             "artist": "Various Artists", 
             "release_date": "2014-06-10T07:00:00Z", 
             "id": 882856383, 
-            "popilarity": 2, 
+            "popularity": 2, 
             "thumbnail": "http://is3.mzstatic.com/image/thumb/Music7/v4/13/c8/dd/13c8ddaa-0942-72cb-6611-b32b5523796c/source/100x100bb.jpg"
         }, 
         {
@@ -272,7 +272,7 @@
             "artist": "Rock Mafia", 
             "release_date": "2010-10-29T07:00:00Z", 
             "id": 401135332, 
-            "popilarity": 3, 
+            "popularity": 3, 
             "thumbnail": "http://is2.mzstatic.com/image/thumb/Music/v4/13/e7/25/13e725ae-ec5b-139e-be49-e86ac1919fe5/source/100x100bb.jpg"
         }, 
         {
@@ -283,7 +283,7 @@
             "artist": "Def Leppard", 
             "release_date": "2012-06-04T07:00:00Z", 
             "id": 530707298, 
-            "popilarity": 1, 
+            "popularity": 1, 
             "thumbnail": "http://is5.mzstatic.com/image/thumb/Music/v4/88/ac/6d/88ac6da1-4b2a-8ef5-dbbd-9872d69cc3b2/source/100x100bb.jpg"
         }, 
         {
@@ -294,7 +294,7 @@
             "artist": "Various Artists", 
             "release_date": "2008-02-05T08:00:00Z", 
             "id": 715718385, 
-            "popilarity": 4, 
+            "popularity": 4, 
             "thumbnail": "http://is1.mzstatic.com/image/thumb/Music4/v4/fe/8c/6a/fe8c6acc-990e-3e2e-143e-e9591c1c6685/source/100x100bb.jpg"
         }, 
         {
@@ -305,7 +305,7 @@
             "artist": "Sean Paul", 
             "release_date": "2002-11-12T08:00:00Z", 
             "id": 79305595, 
-            "popilarity": 3, 
+            "popularity": 3, 
             "thumbnail": "http://is4.mzstatic.com/image/thumb/Music/v4/2e/e9/a0/2ee9a0e7-3835-ac56-38a7-0bbe2cc5baf1/source/100x100bb.jpg"
         }, 
         {
@@ -316,7 +316,7 @@
             "artist": "Midland", 
             "release_date": "2017-09-22T07:00:00Z", 
             "id": 1272415003, 
-            "popilarity": 1, 
+            "popularity": 1, 
             "thumbnail": "http://is5.mzstatic.com/image/thumb/Music118/v4/7a/24/ca/7a24caa2-18e1-1953-99e6-52162e01d11b/source/100x100bb.jpg"
         }, 
         {
@@ -327,7 +327,7 @@
             "artist": "Rocko", 
             "release_date": "2011-06-28T07:00:00Z", 
             "id": 443256330, 
-            "popilarity": 2, 
+            "popularity": 2, 
             "thumbnail": "http://is4.mzstatic.com/image/thumb/Music/v4/7f/18/79/7f1879d6-0607-e5b7-5680-007bde7fb22e/source/100x100bb.jpg"
         }, 
         {
@@ -338,7 +338,7 @@
             "artist": "Aesop Rock", 
             "release_date": "2007-08-28T07:00:00Z", 
             "id": 262316748, 
-            "popilarity": 4, 
+            "popularity": 4, 
             "thumbnail": "http://is1.mzstatic.com/image/thumb/Music/v4/43/96/16/43961651-1f21-4aa5-cbd8-7864434cb70d/source/100x100bb.jpg"
         }, 
         {
@@ -349,7 +349,7 @@
             "artist": "Various Artists", 
             "release_date": "2010-07-09T07:00:00Z", 
             "id": 713437162, 
-            "popilarity": 4, 
+            "popularity": 4, 
             "thumbnail": "http://is5.mzstatic.com/image/thumb/Music4/v4/b0/4a/72/b04a72a6-9f28-39a0-1bb3-1effcab7e1c9/source/100x100bb.jpg"
         }, 
         {
@@ -360,7 +360,7 @@
             "artist": "Chris Rock", 
             "release_date": "2007-01-01T08:00:00Z", 
             "id": 270230212, 
-            "popilarity": 5, 
+            "popularity": 5, 
             "thumbnail": "http://is1.mzstatic.com/image/thumb/Music/v4/3f/4d/c6/3f4dc6e1-883e-f1d2-d075-eaa7ddfd4f88/source/100x100bb.jpg"
         }, 
         {
@@ -371,7 +371,7 @@
             "artist": "The Clash", 
             "release_date": "2013-09-06T07:00:00Z", 
             "id": 685585931, 
-            "popilarity": 2, 
+            "popularity": 2, 
             "thumbnail": "http://is1.mzstatic.com/image/thumb/Music4/v4/ad/16/49/ad1649b9-23c7-f923-5b53-85324c74e24b/source/100x100bb.jpg"
         }, 
         {
@@ -382,7 +382,7 @@
             "artist": "Various Artists", 
             "release_date": "2003-11-25T08:00:00Z", 
             "id": 120978824, 
-            "popilarity": 4, 
+            "popularity": 4, 
             "thumbnail": "http://is4.mzstatic.com/image/thumb/Music/v4/48/0c/76/480c7600-c2e6-b681-c88c-b0938da584f4/source/100x100bb.jpg"
         }, 
         {
@@ -393,7 +393,7 @@
             "artist": "Various Artists", 
             "release_date": "2001-06-01T07:00:00Z", 
             "id": 18399199, 
-            "popilarity": 2, 
+            "popularity": 2, 
             "thumbnail": "http://is1.mzstatic.com/image/thumb/Music/v4/ec/de/ec/ecdeec93-7d5c-ef37-4ebf-7032fc75c009/source/100x100bb.jpg"
         }, 
         {
@@ -404,7 +404,7 @@
             "artist": "LMFAO", 
             "release_date": "2011-01-01T08:00:00Z", 
             "id": 443188578, 
-            "popilarity": 3, 
+            "popularity": 3, 
             "thumbnail": "http://is4.mzstatic.com/image/thumb/Music/v4/ae/ff/6b/aeff6be4-9cd5-b788-d3ba-f4035366a1a3/source/100x100bb.jpg"
         }, 
         {
@@ -415,7 +415,7 @@
             "artist": "PnB Rock", 
             "release_date": "2017-01-13T08:00:00Z", 
             "id": 1181689628, 
-            "popilarity": 3, 
+            "popularity": 3, 
             "thumbnail": "http://is5.mzstatic.com/image/thumb/Music71/v4/9d/a5/23/9da523b2-3b80-6cef-ecff-a44df99f628a/source/100x100bb.jpg"
         }, 
         {
@@ -426,7 +426,7 @@
             "artist": "Rocko", 
             "release_date": "2013-04-23T07:00:00Z", 
             "id": 639809415, 
-            "popilarity": 1, 
+            "popularity": 1, 
             "thumbnail": "http://is5.mzstatic.com/image/thumb/Music/v4/32/c2/b8/32c2b8cd-cd69-625e-0679-f6f46ebd48d9/source/100x100bb.jpg"
         }, 
         {
@@ -437,7 +437,7 @@
             "artist": "Kid Rock", 
             "release_date": "2000-05-23T07:00:00Z", 
             "id": 586858476, 
-            "popilarity": 5, 
+            "popularity": 5, 
             "thumbnail": "http://is5.mzstatic.com/image/thumb/Music/v4/e0/42/35/e0423527-27ce-5f38-075a-8b594022f8b1/source/100x100bb.jpg"
         }, 
         {
@@ -448,7 +448,7 @@
             "artist": "Various Artists", 
             "release_date": "2017-03-10T08:00:00Z", 
             "id": 1216806659, 
-            "popilarity": 5, 
+            "popularity": 5, 
             "thumbnail": "http://is5.mzstatic.com/image/thumb/Music111/v4/88/19/44/881944a7-941b-636e-17ca-04982875c389/source/100x100bb.jpg"
         }, 
         {
@@ -459,7 +459,7 @@
             "artist": "Chris Rock", 
             "release_date": "2005-02-01T08:00:00Z", 
             "id": 1103997883, 
-            "popilarity": 5, 
+            "popularity": 5, 
             "thumbnail": "http://is4.mzstatic.com/image/thumb/Music18/v4/54/60/71/54607156-24dd-396b-218b-e27b3932b4d5/source/100x100bb.jpg"
         }, 
         {
@@ -470,7 +470,7 @@
             "artist": "Rocko", 
             "release_date": "2011-12-13T08:00:00Z", 
             "id": 489983223, 
-            "popilarity": 1, 
+            "popularity": 1, 
             "thumbnail": "http://is5.mzstatic.com/image/thumb/Music/v4/00/4e/ad/004ead01-231c-9d8d-3f79-d825779e67ca/source/100x100bb.jpg"
         }, 
         {
@@ -481,7 +481,7 @@
             "artist": "Various Artists", 
             "release_date": "2015-12-18T08:00:00Z", 
             "id": 1067444710, 
-            "popilarity": 3, 
+            "popularity": 3, 
             "thumbnail": "http://is1.mzstatic.com/image/thumb/Music7/v4/1b/f2/63/1bf263a7-c4c2-d93a-923d-cff05841140a/source/100x100bb.jpg"
         }, 
         {
@@ -492,7 +492,7 @@
             "artist": "Keith Anderson", 
             "release_date": "2001-01-01T08:00:00Z", 
             "id": 253205302, 
-            "popilarity": 4, 
+            "popularity": 4, 
             "thumbnail": "http://is2.mzstatic.com/image/thumb/Music/v4/ff/b1/e4/ffb1e449-40a8-fafe-ddd1-f9e2e207a523/source/100x100bb.jpg"
         }, 
         {
@@ -503,7 +503,7 @@
             "artist": "Joshua Radin", 
             "release_date": "2010-10-12T07:00:00Z", 
             "id": 389834466, 
-            "popilarity": 1, 
+            "popularity": 1, 
             "thumbnail": "http://is3.mzstatic.com/image/thumb/Music/v4/fb/57/dc/fb57dc92-7037-10dc-547f-c199bac51526/source/100x100bb.jpg"
         }, 
         {
@@ -514,7 +514,7 @@
             "artist": "Various Artists", 
             "release_date": "2010-11-02T07:00:00Z", 
             "id": 399596065, 
-            "popilarity": 4, 
+            "popularity": 4, 
             "thumbnail": "http://is2.mzstatic.com/image/thumb/Music/v4/b3/77/bf/b377bfd2-3ec3-efad-efe8-3a43c12cccdc/source/100x100bb.jpg"
         }, 
         {
@@ -525,7 +525,7 @@
             "artist": "Various Artists", 
             "release_date": "2005-01-01T08:00:00Z", 
             "id": 156094857, 
-            "popilarity": 2, 
+            "popularity": 2, 
             "thumbnail": "http://is3.mzstatic.com/image/thumb/Music/v4/c4/e2/a8/c4e2a8fa-2f98-7e1e-56e8-8c89f6583742/source/100x100bb.jpg"
         }, 
         {
@@ -536,7 +536,7 @@
             "artist": "AC/DC", 
             "release_date": "2012-11-19T08:00:00Z", 
             "id": 574055123, 
-            "popilarity": 5, 
+            "popularity": 5, 
             "thumbnail": "http://is4.mzstatic.com/image/thumb/Music6/v4/1f/ab/27/1fab2727-5646-7219-b3df-68e49d7ada60/source/100x100bb.jpg"
         }, 
         {
@@ -547,7 +547,7 @@
             "artist": "Mormon Tabernacle Choir", 
             "release_date": "1992-06-01T07:00:00Z", 
             "id": 165109005, 
-            "popilarity": 4, 
+            "popularity": 4, 
             "thumbnail": "http://is5.mzstatic.com/image/thumb/Music/v4/c0/f8/7f/c0f87f8e-d619-45e9-50ed-94114af5cecd/source/100x100bb.jpg"
         }
     ]
