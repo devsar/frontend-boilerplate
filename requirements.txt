@@ -1,2 +1,2 @@
 bottle==0.12.13
-gevent
+gevent==1.2.2
